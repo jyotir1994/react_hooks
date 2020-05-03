@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css';
-import HookCounterWithObj from './components/HookCounterWithObj';
+import HookCounterWithArray from './components/HookCounterWithArray';
 
 function App() {
   return (
     <div className="App">
-      <HookCounterWithObj />
+      <HookCounterWithArray />
     </div>
   );
 }
